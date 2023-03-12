@@ -25,8 +25,9 @@ import none from "./company/none.png";
 
 import anonymous from "./testimonials/person.svg"
 
-import windows from "./windows.png"
-import youtube from "./youtube.png"
+import windows from "./projects/windows.png"
+import youtube from "./projects/youtube.png"
+import portfolio from "./projects/portfolio.png"
 
 import gihubIcon from './socials/github.svg'
 import linkedinIcon from './socials/linkedin.svg'
@@ -66,6 +67,7 @@ export {
 
     windows,
     youtube,
+    portfolio,
 
     gihubIcon,
     linkedinIcon,

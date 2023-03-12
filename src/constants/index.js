@@ -14,6 +14,7 @@ import {
     none,
     windows,
     youtube,
+    portfolio,
     threejs,
     python,
     linux,
@@ -180,6 +181,36 @@ const projects = [
         image: youtube,
         project_link: "https://youtube-clone-react-18.netlify.app/",
         source_code_link: "https://github.com/CodeWithSaurabhYadav/YoutubeCloneReact.git",
+    },
+    {
+        name: "My Portfolio",
+        description:
+            "This is my portfolio website which is made using REACT and React Three Fiber (R3F).😊",
+        tags: [
+            {
+                name: "HTML5",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "CSS3",
+                color: "green-text-gradient",
+            },
+            {
+                name: "JavaScript",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "React",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "React three filber",
+                color: "green-text-gradient",
+            },
+        ],
+        image: portfolio,
+        project_link: "https://saurabhyadav.vercel.app",
+        source_code_link: "https://github.com/CodeWithSaurabhYadav/myPortfolio",
     },
 ];
 
