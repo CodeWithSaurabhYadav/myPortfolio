@@ -221,7 +221,7 @@ const socialLinks =[
     },
     {
         name: 'hackerrank',
-        link: 'https://www.hackerrank.com/sy85026300',
+        link: 'https://www.hackerrank.com/sy8502630',
         icon: hackerRankIcon,
     },
     {
